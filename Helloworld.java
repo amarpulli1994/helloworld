@@ -15,7 +15,7 @@ public class Helloworld{
 	Helloworld hello = new Helloworld();
 	hello.printPyramid();
 	System.out.println("Welcome to Java World and Devops...");
-	System.out.println("Welcome to Fueb and Edfinity...");
+	System.out.println("Welcome to Fueb and Edgefinity...");
 	
 	}
 }
